@@ -4,7 +4,7 @@
 
 ### Description: This is a silly little project I made in C# during my free time, it is a magic 8 ball with a special "sheev mode," which is a reference to the Star Wars prequels. Enjoy!
 
-![8ball]()
+![8ball](https://github.com/EnEmerson/magic-sheev-ball/blob/master/resources/8ball.png)
 
 ```c#
 namespace magicEightBall
