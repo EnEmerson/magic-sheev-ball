@@ -16,3 +16,12 @@ G:\Magic 8 Ball\magicEightBall\magicEightBall\obj\Debug\magicEightBall.Propertie
 G:\Magic 8 Ball\magicEightBall\magicEightBall\obj\Debug\magicEightBall.csproj.GenerateResource.Cache
 G:\Magic 8 Ball\magicEightBall\magicEightBall\obj\Debug\magicEightBall.exe
 G:\Magic 8 Ball\magicEightBall\magicEightBall\obj\Debug\magicEightBall.pdb
+C:\Users\En\Desktop\repos\magic-sheev-ball\magicEightBall\bin\Debug\magicEightBall.exe.config
+C:\Users\En\Desktop\repos\magic-sheev-ball\magicEightBall\bin\Debug\magicEightBall.exe
+C:\Users\En\Desktop\repos\magic-sheev-ball\magicEightBall\bin\Debug\magicEightBall.pdb
+C:\Users\En\Desktop\repos\magic-sheev-ball\magicEightBall\obj\Debug\magicEightBall.csprojResolveAssemblyReference.cache
+C:\Users\En\Desktop\repos\magic-sheev-ball\magicEightBall\obj\Debug\magicEightBall.magicBallForm.resources
+C:\Users\En\Desktop\repos\magic-sheev-ball\magicEightBall\obj\Debug\magicEightBall.Properties.Resources.resources
+C:\Users\En\Desktop\repos\magic-sheev-ball\magicEightBall\obj\Debug\magicEightBall.csproj.GenerateResource.Cache
+C:\Users\En\Desktop\repos\magic-sheev-ball\magicEightBall\obj\Debug\magicEightBall.exe
+C:\Users\En\Desktop\repos\magic-sheev-ball\magicEightBall\obj\Debug\magicEightBall.pdb
