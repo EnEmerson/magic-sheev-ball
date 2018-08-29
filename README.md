@@ -13,6 +13,10 @@ namespace magicEightBall
     {
         Image magicBall = new Bitmap(@"8ball.png");
 
+        string[] choices = new string[]{"It is certain", "Very doubtful", "Decidedly so",
+                    "Outlook not good", "Without question", "Never", "Most likely",
+                    "Ask again later", "Absolutely", "Cannot tell", "Do it", "Yes" };
+
         public magicBallForm()
         {
             InitializeComponent();
@@ -33,44 +37,10 @@ namespace magicEightBall
             {
                 this.BackgroundImage = magicBall;
                 answerLabel.Text = "";
-
-                int decision = rand.Next(1, 11);
-
-                switch(decision)
-                {
-                    case 1: answerLabel.Text = "It is certain.";
-                        break;
-
-                    case 2: answerLabel.Text = "Very doubtful.";
-                        break;
-
-                    case 3: answerLabel.Text = "Decidedly so.";
-                        break;
-
-                    case 4: answerLabel.Text = "Outlook not good.";
-                        break;
-
-                    case 5: answerLabel.Text = "Without a doubt.";
-                        break;
-
-                    case 6: answerLabel.Text = "Never.";
-                        break;
-
-                    case 7: answerLabel.Text = "Most likely.";
-                        break;
-
-                    case 8: answerLabel.Text = "Ask again later.";
-                        break;
-
-                    case 9: answerLabel.Text = "Absolutely.";
-                        break;
-
-                    case 10: answerLabel.Text = "Cannot predict now.";
-                        break;
-
-                    default: answerLabel.Text = "Do it.";
-                        break;
-                }
+                int upperBound = choices.Length + 1;
+                int decision = rand.Next(1, upperBound); // (inclusive, exclusive)
+                string response = choices[decision-1];
+                answerLabel.Text = response;
             }
         }
     }
