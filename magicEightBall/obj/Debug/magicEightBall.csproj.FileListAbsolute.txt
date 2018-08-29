@@ -25,3 +25,13 @@ C:\Users\En\Desktop\repos\magic-sheev-ball\magicEightBall\obj\Debug\magicEightBa
 C:\Users\En\Desktop\repos\magic-sheev-ball\magicEightBall\obj\Debug\magicEightBall.csproj.GenerateResource.Cache
 C:\Users\En\Desktop\repos\magic-sheev-ball\magicEightBall\obj\Debug\magicEightBall.exe
 C:\Users\En\Desktop\repos\magic-sheev-ball\magicEightBall\obj\Debug\magicEightBall.pdb
+C:\Users\Lord_\Desktop\Repositories\magic-sheev-ball\magicEightBall\obj\Debug\magicEightBall.csprojAssemblyReference.cache
+C:\Users\Lord_\Desktop\Repositories\magic-sheev-ball\magicEightBall\obj\Debug\magicEightBall.magicBallForm.resources
+C:\Users\Lord_\Desktop\Repositories\magic-sheev-ball\magicEightBall\obj\Debug\magicEightBall.Properties.Resources.resources
+C:\Users\Lord_\Desktop\Repositories\magic-sheev-ball\magicEightBall\obj\Debug\magicEightBall.csproj.GenerateResource.cache
+C:\Users\Lord_\Desktop\Repositories\magic-sheev-ball\magicEightBall\obj\Debug\magicEightBall.csproj.CoreCompileInputs.cache
+C:\Users\Lord_\Desktop\Repositories\magic-sheev-ball\magicEightBall\obj\Debug\magicEightBall.exe
+C:\Users\Lord_\Desktop\Repositories\magic-sheev-ball\magicEightBall\obj\Debug\magicEightBall.pdb
+C:\Users\Lord_\Desktop\Repositories\magic-sheev-ball\magicEightBall\bin\Debug\magicEightBall.exe.config
+C:\Users\Lord_\Desktop\Repositories\magic-sheev-ball\magicEightBall\bin\Debug\magicEightBall.exe
+C:\Users\Lord_\Desktop\Repositories\magic-sheev-ball\magicEightBall\bin\Debug\magicEightBall.pdb
