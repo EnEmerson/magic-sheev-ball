@@ -46,3 +46,5 @@ namespace magicEightBall
     }
 }
 ```
+
+### Note: The built version of this project is located in /magic-sheev-ball/magicEightBall/bin/Debug, I have included a shortcut to this file in the main folder here.
